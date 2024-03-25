@@ -1,4 +1,4 @@
-ncreate page home 
+create page home 
 create page setting
 create video
 create page webiew
@@ -9,3 +9,4 @@ create new java file
 create master file
 create page chris
 create page master_git
+create chris_master_pagina
